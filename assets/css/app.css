@@ -1,0 +1,22 @@
+body {background-color: #ffffff;}
+background-repeat:repeat-x;}
+.wrapper {background-color: none; padding: 25px; text-align: center;}
+.announce {background-color: #none; padding: 25px; text-align: center; }
+.portfolio {background-color: none; padding: 25px; text-align: center; }
+img {padding:0px;}
+#nav {padding: 0px;}
+.photo {padding:0px}
+
+h1 {font-family: 'Montserrat', sans-serif;font-size: 22pt; line-height: 50pt; font-weight: 400; color: #004475; text-align: center;}
+h2 {font-family: 'Montserrat', sans-serif;font-size: 16pt; line-height: 16pt; font-weight: 300; color: #004475; text-align: center;}
+p {font-family: 'Open Sans', sans-serif;font-size: 14pt; line-height: 24pt; font-weight: 300; color: #000000; text-align: center; width: 45%;}
+hr {width: 20%; background-color: #E6C10D; }
+footer {font-family: 'Montserrat', sans-serif;font-size: 10pt; line-height: 14pt; font-weight: 300; text-align: center;}
+
+a {font-family: 'Montserrat', font-weight: 100; sans-serif; font-size: 10pt; line-height:18pt; color: #5b5b5b; margin: 25px;}
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:none;}
+a:active {text-decoration:none;}
+
+
