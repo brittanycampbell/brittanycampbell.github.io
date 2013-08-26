@@ -1,6 +1,6 @@
 body {background-color: #ffffff; margin: 0;}
 .banner {background-color: none;} 
-.wrapper {background-color: none; padding: 25px; text-align: center;}
+.wrapper {background-color: none; padding: 25px; text-align: center; background-image: url(assets/images/cream_pixels.png)}
 img {padding:0px;}
 
 
