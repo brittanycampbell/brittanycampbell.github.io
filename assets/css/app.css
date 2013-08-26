@@ -1,5 +1,4 @@
-body {background-color: #ffffff;}
-background-repeat:repeat-x;}
+body {background-color: #ffffff; margin: 0; background-repeat:repeat-x;}
 .banner {background-color: none; background: url(assets/images/mountains.png) no-repeat center center fixed;} 
 .wrapper {background-color: none; padding: 25px; text-align: center;}
 .announce {background-color: #none; padding: 25px; text-align: center; }
