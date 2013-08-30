@@ -8,7 +8,7 @@ h1 {font-family: 'Montserrat', sans-serif;font-size: 16pt; line-height: 16pt; fo
 h2 {font-family: 'Sacramento', sans-serif;font-size: 28pt; line-height: 24pt; font-weight: 300; color: #32354F; text-align: center; width: 65%;}
 p {font-family: 'Open Sans', sans-serif;font-size: 14pt; line-height: 24pt; font-weight: 300; color: #32354F; text-align: center; width: 65%;}
 
-a {font-family: 'Montserrat', font-weight: 100; sans-serif; font-size: 10pt; line-height:18pt; color: #5b5b5b; margin: 25px;}
+a {font-family: 'Montserrat', font-weight: 100; sans-serif; font-size: 10pt; line-height:18pt; color: #5b5b5b; padding: 25px;}
 a:link {text-decoration:none;}
 a:visited {text-decoration:none;}
 a:hover {text-decoration:none;}
